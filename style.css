@@ -1,0 +1,101 @@
+h1{
+    color: #263077;
+    font-size: 45px;
+    font-weight: 800;
+}
+
+h4{
+    font-size: 23px;
+    line-height: 33px;
+}
+
+.bg-light {
+    background-color: transparent !important;
+}
+
+.main-section {
+    background: rgba(0, 148, 222, 0.1);
+}
+
+.nav-link{
+    color:black !important;
+}
+
+.menu-bg {
+    margin: auto;
+    width: 1290px;
+    height: 70px;
+    left: 315px;
+    top: 120px;
+    background-color: #fff;
+    border-radius: 10px;
+    display: flex;
+    align-content: flex-end;
+    justify-content: center;
+    align-items: center;
+}
+
+#home{
+    padding: 90px 0 90px 0;
+    margin: 0 0 0 182px;
+}
+
+.btn{
+    width: 180px;
+    height: 45px;
+    background-color:#263077;
+    color: #fff;
+    border-radius: 25px;
+}
+
+.row{
+    align-items: center;
+}
+
+#about{
+    padding: 50px 0 0 0;
+    background-color:#263077;
+    width: 1290px;
+    height: 250px;
+    border-radius: 50px 50px 0 0;
+    margin-top: -90px;
+    margin-bottom: 30px;
+}
+
+.imgbg{
+    height: 70px;
+    width: 70px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.column {
+    float: left;
+    width: 22%;
+    padding: 10px;
+    margin: 0 2px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    border-radius: 0 5px 5px 0;
+  }
+  .column-4 {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    margin: 0 0 0 20px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    border-radius: 5px;
+  }
+
+  #services{
+    background: rgba(0, 148, 222, 0.1);
+    padding: 60px 0 60px 0;
+  }
+
+  #copyright{
+    background-color:#263077; 
+  }
