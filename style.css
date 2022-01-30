@@ -18,7 +18,7 @@ h4{
 }
 
 .nav-link{
-    color:black !important;
+    color: black !important;
 }
 
 .menu-bg {
@@ -43,7 +43,7 @@ h4{
 .btn{
     width: 180px;
     height: 45px;
-    background-color:#263077;
+    background-color: #263077;
     color: #fff;
     border-radius: 25px;
 }
@@ -54,7 +54,7 @@ h4{
 
 #about{
     padding: 50px 0 0 0;
-    background-color:#263077;
+    background-color: #263077;
     width: 1290px;
     height: 250px;
     border-radius: 50px 50px 0 0;
